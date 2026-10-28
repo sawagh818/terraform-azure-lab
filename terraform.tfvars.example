@@ -1,0 +1,6 @@
+subscription_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+tenant_id       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+admin_password  = "xxxxxxxxxxx"
+# allowed_source_ip = "1.2.3.4/32"
+# enable_lab03 = true
+# enable_lab04 = true
